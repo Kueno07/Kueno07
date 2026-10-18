@@ -2,7 +2,15 @@
 
 I work with data governance, master data and analytics (Power BI, Microsoft Fabric), and I lead a data team. On the side I build small projects. I like tests that can fail.
 
-## Projects
+## Data and analytics
+
+**[catalog-quality-deduplication](https://github.com/Kueno07/catalog-quality-deduplication)**: a Python script that flags catalog records with different product IDs but matching normalized attributes.
+
+**[consumer-campaign-analysis](https://github.com/Kueno07/consumer-campaign-analysis)**: SQL for comparing campaign outcomes between randomized treatment and control groups.
+
+**[marketplace-operations-analysis](https://github.com/Kueno07/marketplace-operations-analysis)**: SQL that keeps order cancellation, unit fill rate and product-line availability as separate metrics.
+
+## Engineering
 
 **[study-game-engine](https://github.com/Kueno07/study-game-engine)**: the backend of a study game I built for myself, on Vercel and Upstash Redis. The database carries a label (prod or dev), so a preview deployment can't write to production. It also has phrase login, a review scheduler, tests, CI and a secret scan. No dependencies.
 
