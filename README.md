@@ -12,7 +12,7 @@ I work with data governance, master data and analytics, including Databricks and
 
 ## Engineering
 
-**[study-game-engine](https://github.com/Kueno07/study-game-engine)**: serverless backend for a study game using Vercel and Upstash Redis. It includes separate preview and production data, phrase-based login, spaced review, tests, CI and secret scanning.
+**[study-game-engine](https://github.com/Kueno07/study-game-engine)**: generic serverless backend pieces extracted from a private study project (not the game itself), for Vercel and Upstash Redis. They include separate preview and production data, phrase-based login, spaced review, tests, CI and secret scanning.
 
 **[agente-biografico](https://github.com/Kueno07/agente-biografico)**: single-file web app for guided memoir creation as a DOCX. No backend. [Live version](https://kueno07.github.io/agente-biografico/).
 
